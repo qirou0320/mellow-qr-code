@@ -1,0 +1,76 @@
+# 📱 Mellow — A Gentle Space of Your Mind
+
+**Team Name:** QR coDE  
+**Track:** Track 1 — Student Lifestyle  
+**Problem Statement:** Mental Health Support for Students  
+
+---
+
+## 👥 Meet The Team
+- **Chan Qi Rou** — Project Leader, UI/UX Designer  ,Content creatot ,App Developer
+- **Ding Ian Loo** — Speechwriter, App Developer, QA Tester  
+- **Peng Zu Er** —  Research & Data Analyst, Marketing & Outreach, App Developer  
+
+---
+
+## 🌍 Background
+University students today face growing mental health challenges such as anxiety and depression often brought on by financial stress, academic pressure and the demands of campus life.  
+---
+## ❌ The Problem
+Many students don’t seek help because counseling resources are limited or they fear stigma. 
+This challenge will explore creating tools for self care, mental health support and helping students cope with the demands of university life.  
+
+---
+
+## ✅ Our Solution: Mellow
+Mellow is a mobile app built for university students to:
+- Provide proactive mental health tools for daily life.  
+- Complement campus counseling and support services.  
+- Encourage self-care and stress management in a stigma-free way.  
+
+---
+
+## 🎨 Colour Palette & Design Philosophy
+- **Soft Blue** — peace, clarity  
+- **Pale Green** — renewal, stress reduction  
+- **Lavender** — relaxation  
+- **Warm Beige / Sand** — comfort  
+- **Light Pink** — compassion  
+- **Turquoise** — uplifting balance  
+
+---
+
+## ✨ Key Features
+- **Anonymous Peer Support** — moderated forums and anonymous sharing  
+- **Daily Mood Check-in** — emoji/slider, track patterns  
+- **Diary** — reflections + stressor tags  
+- **Calm Now** — breathing, meditations, sleep stories  
+- **Calendar** — highlight exam weeks and overlay mood trends  
+- **Help** — 24/7 hotlines, campus contacts, emergency trusted contacts  
+- **Astra Chat** — AI companion for emotional support & reminders  
+
+---
+
+## 🚀 Future Plans
+- Smarter AI support for Astra  
+- Multi-language support  
+- Expanded calm tools  
+- Partnerships with institutions  
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** Flutter 
+---
+
+## ⚙️ How to Run Locally
+```bash
+# Clone the repo
+git clone https://github.com/your-username/mellow.git
+cd mellow
+
+# Install dependencies
+flutter pub get
+
+# Run app
+flutter run
