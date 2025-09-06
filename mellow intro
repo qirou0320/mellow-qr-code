@@ -74,3 +74,6 @@ flutter pub get
 
 # Run app
 flutter run
+
+⚠️ Note: This is currently a design prototype (sketches and slides only).  
+Future development will implement the app using Flutter and Firebase.  
